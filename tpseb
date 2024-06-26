@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riri, Fifi et Loulou</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        header img {
+            width: 100px;
+            height: auto;
+        }
+        h1 {
+            font-size: 2em;
+            color: #333;
+        }
+        .riri {
+            color: #800000; /* Bordeaux */
+        }
+        .fifi {
+            color: #0000ff; /* Bleu */
+        }
+        .loulou {
+            color: #ff0000; /* Rouge */
+        }
+        .main-image {
+            width: 100%;
+            max-width: 800px;
+            height: auto;
+            margin: 20px 0;
+        }
+        .presentation {
+            font-size: 1.2em;
+            color: #333;
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            display: inline-block;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://www.gifsanimes.fr/disney-gifs/disney-gifs/riri-fifi-et-loulou/riri-fifi-et-loulou-gifs-animes-1618198.gif" alt="Logo de la page">
+    </header>
+    <main>
+        <img src="https://image.over-blog.com/zlxxZHrCqP_h7u1U3vWxEQZK7kI=/filters:no_upscale()/image%2F0980383%2F20230408%2Fob_e11de4_10cc878e.gif" alt="Image en haut de page">
+        <h1 class="riri">Riri (Franck Gourounas)</h1>
+        <h1 class="fifi">Fifi (Ludovic Sauvage)</h1>
+        <h1 class="loulou">Loulou (Rébecca Debut Dueñas)</h1>
+        <img class="main-image" src="https://cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/WXDUBL7IR5BWRGY2CJRQL2M5YU.jpg" alt="Image principale">
+        <div class="presentation">
+            <p><span class="riri">Riri</span> est le plus malin, le plus vieux, le plus espiègle.</p>
+            <p><span class="fifi">Fifi</span> est le plus intelligent, le plus rigolo, le plus aigrie.</p>
+            <p><span class="loulou">Loulou</span> est la plus jeune, la plus zinzin, la plus impulsive.</p>
+        </div>
+    </main>
+</body>
+</html>
